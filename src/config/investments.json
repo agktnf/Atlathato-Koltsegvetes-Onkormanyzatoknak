@@ -1,0 +1,23 @@
+[
+    {
+        "icon": "Building2",
+        "colorRef": "elsodleges",
+        "title": "Művelődési Ház felújítása",
+        "amount": "120 millió Ft",
+        "desc": "A település központi művelődési házának teljes energetikai korszerűsítése, akadálymentesítése és belső felújítása."
+    },
+    {
+        "icon": "Route",
+        "colorRef": "harmadlagos",
+        "title": "Kossuth utca útfelújítás",
+        "amount": "65 millió Ft",
+        "desc": "A legforgalmasabb belterületi út teljes burkolatcseréje és csapadékvíz-elvezető rendszer kiépítése."
+    },
+    {
+        "icon": "Smile",
+        "colorRef": "masodlagos",
+        "title": "Központi Játszótér bővítése",
+        "amount": "Tervezési fázis",
+        "desc": "Új, modern játszóeszközök telepítése és a zöldterület bővítése a Városligetben, minden korosztály számára."
+    }
+]
